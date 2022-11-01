@@ -1,3 +1,5 @@
+This repository represents a minimal reproducible example (MRE) for an issue https://github.com/umbraco/Umbraco-CMS/issues/13334
+
 # Setup
 
 1. Import bacpac file `umbraco-cms-test-bck-thread.bacpac` (available in the root of the repo folder) into your local SQL database
